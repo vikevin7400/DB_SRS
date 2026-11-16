@@ -27,7 +27,6 @@ Project: OTT Streaming Platform – Backend System
 
 <img width="1786" height="352" alt="Screenshot 2026-11-14 212009" src="https://github.com/user-attachments/assets/1a6ec56a-1305-403a-bbe9-5ad568aef08a" />
 
-<img width="1212" height="283" alt="Screenshot 2026-11-15 234501" src="https://github.com/user-attachments/assets/bbb5d692-2b9e-4215-bd51-02ffc1e3d696" />
 
 
 
